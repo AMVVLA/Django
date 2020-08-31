@@ -11,3 +11,6 @@ def login(request):
 
 def signout(request):
     return HttpResponse("잘가~")
+
+def test(request)L
+    return HttpResponse("머지가 머지")
